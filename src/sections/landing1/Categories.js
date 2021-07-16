@@ -29,8 +29,8 @@ const Categories = () => {
                       <span>415</span> Vacancy
                     </p>
                     <Link href="/#">
-                      <a className="btn btn-outline-green text-uppercase">
-                        Jobs ansehen
+                      <a className="btn btn-green text-uppercase">
+                        ansehen
                       </a>
                     </Link>
                   </div>
@@ -54,8 +54,8 @@ const Categories = () => {
                       <span>235</span> Vacancy
                     </p>
                     <Link href="/#">
-                      <a className="btn btn-outline-green text-uppercase">
-                        Jobs ansehen
+                      <a className="btn btn-green text-uppercase">
+                        ansehen
                       </a>
                     </Link>
                   </div>
@@ -79,8 +79,8 @@ const Categories = () => {
                       <span>624</span> Vacancy
                     </p>
                     <Link href="/#">
-                      <a className="btn btn-outline-green text-uppercase">
-                        Jobs ansehen
+                      <a className="btn btn-green text-uppercase">
+                        ansehen
                       </a>
                     </Link>
                   </div>

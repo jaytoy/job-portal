@@ -31,7 +31,7 @@ const Hero = () => {
               data-aos-delay="500"
             >
               <h1 className="font-size-11 mb-12 pr-md-30 pr-lg-0">
-                Find the perfect job that you deserve.
+                Gemeinsam Karriere machen
               </h1>
               <div className="">
                 {/* <!-- .search-form --> */}
